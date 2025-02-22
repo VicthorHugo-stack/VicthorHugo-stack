@@ -66,8 +66,14 @@ Sou apaixonado por tecnologia e programação, e acredito que com dedicação e 
 
 ###
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/output/github-contribution-grid-snake.svg">
+</picture>
+
+###
+
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VicthorHugo-stack&radius=16&theme=gruvbox&area=true&order=5" height="292" alt="activity-graph graph"  />
 </div>
-
-###
