@@ -54,7 +54,7 @@ Sou apaixonado por tecnologia e programação, e acredito que com dedicação e 
   <a href="https://www.facebook.com/profile.php?id=100094286922411" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="44" height="32" alt="facebook logo"  />
   </a>
-  <a href="11992566753" target="_blank">
+  <a href="(https://wa.me/11992566753)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="44" height="32" alt="whatsapp logo"  />
   </a>
 </div>
