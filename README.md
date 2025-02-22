@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia e programação, e acredito que com dedicação e 
 <hr>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VicthorHugo-stack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="164" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VicthorHugo-stack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
 </div>
 
 ###
