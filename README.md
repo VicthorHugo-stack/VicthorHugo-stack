@@ -65,7 +65,7 @@ Sou apaixonado por tecnologia e programação, e acredito que com dedicação e 
 </div>
 
 ###
-
+<hr>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/output/github-contribution-grid-snake-dark.svg">
