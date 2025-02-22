@@ -36,16 +36,16 @@ Sou apaixonado por tecnologia e programação, e acredito que com dedicação e 
 
 <div>
   <a href="https://github.com/VicthorHugo-stack" target="_blank">
-    <img height="50" width="100"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img height="50" width="100"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=esqueci&table=filmes" target="_blank">
-    <img height="50" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
   <a href="https://www.twitch.tv/victhorhugo_dev" target="_blank">
-    <img height="50" width="100" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
   </a>
 </div>
 
