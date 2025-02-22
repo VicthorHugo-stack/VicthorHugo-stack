@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, meu nome é "[Victhor Hugo](https://www.instagram.com/victhorhugo73/)", tenho 14 anos e sou de São Paulo. Atualmente, estou cursando o 9º ano do ensino fundamental e estou também participando de um curso de programação na B7web, onde aprendo sobre as tecnologias mais modernas usadas na construção de sistemas e aplicativos.
+Olá, meu nome é [Victhor Hugo](https://www.instagram.com/victhorhugo73/), tenho 14 anos e sou de São Paulo. Atualmente, estou cursando o 9º ano do ensino fundamental e estou também participando de um curso de programação na B7web, onde aprendo sobre as tecnologias mais modernas usadas na construção de sistemas e aplicativos.
 
 Desde muito pequeno, sempre fui apaixonado por tecnologia e como ela pode transformar o mundo ao nosso redor. Eu me interessei por programação porque vejo nela uma maneira de criar soluções incríveis, automatizar tarefas, melhorar a vida das pessoas e até mesmo criar meus próprios projetos. Aprender a programar é como aprender um novo idioma, e cada linha de código que escrevo é uma nova oportunidade de criar algo inovador.
 Sou apaixonado por tecnologia e programação, e acredito que com dedicação e estudo continuo poderei alcançar meus objetivos, tanto profissionais quanto pessoais. Estou sempre em busca de novos desafios e oportunidades para aprender, crescer e contribuir para o mundo da tecnologia!
@@ -11,7 +11,7 @@ Sou apaixonado por tecnologia e programação, e acredito que com dedicação e 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div>
     <a href="https://github.com/VicthorHugo-stack">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VicthorHugo-stack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="230em" src="https://github-readme-stats.vercel.app/api?username=VicthorHugo-stack&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </a>
   </div>
   
