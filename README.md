@@ -8,13 +8,7 @@ Desde muito pequeno, sempre fui apaixonado por tecnologia e como ela pode transf
 Sou apaixonado por tecnologia e programação, e acredito que com dedicação e estudo continuo poderei alcançar meus objetivos, tanto profissionais quanto pessoais. Estou sempre em busca de novos desafios e oportunidades para aprender, crescer e contribuir para o mundo da tecnologia!
 <hr>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VicthorHugo-stack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-</div>
-
-###
-
-<h3 align="left">Linguagens</h3>
+<h3 align="left">🤖 Linguagens e Tecnologias</h3>
 
 ###
 
@@ -40,7 +34,7 @@ Sou apaixonado por tecnologia e programação, e acredito que com dedicação e 
 
 ###
 
-<h3 align="left">Midias sociais</h3>
+<h3 align="left">✨Midias sociais</h3>
 
 ###
 
@@ -74,6 +68,18 @@ Sou apaixonado por tecnologia e programação, e acredito que com dedicação e 
 
 ###
 
+<h3 align⬅left;>📊 Estatísticas</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VicthorHugo-stack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+</div>
+<hr>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VicthorHugo-stack&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=gruvbox&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+<hr>
+
+###
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VicthorHugo-stack&radius=16&theme=gruvbox&area=true&order=5" height="292" alt="activity-graph graph"  />
 </div>
