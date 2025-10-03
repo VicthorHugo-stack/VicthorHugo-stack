@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, meu nome é [Victhor Hugo](https://www.instagram.com/victhorhugo73/), tenho 14 anos e sou de São Paulo. Atualmente, estou cursando o 9º ano do ensino fundamental e estou também participando de um curso de programação na B7web, onde aprendo sobre as tecnologias mais modernas usadas na construção de sistemas e aplicativos.
+Olá, meu nome é [Victhor Hugo](https://www.instagram.com/victhor_hcg/), tenho 14 anos e sou de São Paulo. Atualmente, estou cursando o 9º ano do ensino fundamental e estou também participando de um curso de programação na B7web, onde aprendo sobre as tecnologias mais modernas usadas na construção de sistemas e aplicativos.
 
 Desde muito pequeno, sempre fui apaixonado por tecnologia e como ela pode transformar o mundo ao nosso redor. Eu me interessei por programação porque vejo nela uma maneira de criar soluções incríveis, automatizar tarefas, melhorar a vida das pessoas e até mesmo criar meus próprios projetos. Aprender a programar é como aprender um novo idioma, e cada linha de código que escrevo é uma nova oportunidade de criar algo inovador.
 Sou apaixonado por tecnologia e programação, e acredito que com dedicação e estudo continuo poderei alcançar meus objetivos, tanto profissionais quanto pessoais. Estou sempre em busca de novos desafios e oportunidades para aprender, crescer e contribuir para o mundo da tecnologia!
@@ -39,7 +39,7 @@ Sou apaixonado por tecnologia e programação, e acredito que com dedicação e 
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/victhorhugo73/" target="_blank">
+  <a href="https://www.instagram.com/victhor_hcg/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/victhorhugo_dev" target="_blank">
