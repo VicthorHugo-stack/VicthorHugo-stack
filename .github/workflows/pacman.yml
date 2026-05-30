@@ -1,11 +1,28 @@
-name: Teste Pacman
+name: Generate Pacman
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  teste:
+  generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
+
     steps:
-      - name: Teste
-        run: echo "Funcionou!"
+      - name: Generate Pacman
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: VicthorHugo-stack
+          outputs: dist/pacman-contribution-graph.svg
+
+      - name: Deploy Pacman
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
