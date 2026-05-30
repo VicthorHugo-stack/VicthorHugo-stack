@@ -101,6 +101,14 @@
 <br>
 
 <div align="center">
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/pacman-output/pacman-contribution-graph.svg">
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VicthorHugo-stack.VicthorHugo-stack" />
 </div>
 
@@ -109,20 +117,4 @@
 <div align="center">
   <img height="196" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhpOWIyanZrbXZia3Byc252MWI2bTljdzQ4ajYzYTFqdGNvdHE1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
 </div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/pacman-output/pacman-contribution-graph-dark.svg">
-
-<div align="center">
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/pacman-output/pacman-contribution-graph.svg">
-</div>
-  </picture>
-</div>
-
 
