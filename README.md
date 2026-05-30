@@ -84,32 +84,23 @@
 
 ###
 
-<h2 align="left">📊 Estatísticas</h2>
-
-###
+ <h2 align="left">📊 Estatísticas</h2>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/VicthorHugo-stack /VicthorHugo-stack /stats-output/stats.svg" height="100" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/VicthorHugo-stack /VicthorHugo-stack /languages-output/languages.svg" height="100" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/stats-output/stats.svg" height="100" alt="stats graph" />
+  <br>
+  <img src="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/languages-output/languages.svg" height="100" alt="languages graph" />
 </div>
-
-###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox" />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/VicthorHugo-stack /VicthorHugo-stack /snake-output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/snake-output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VicthorHugo-stack .VicthorHugo-stack &"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VicthorHugo-stack.VicthorHugo-stack" />
 </div>
-
-###
 
 <div align="center">
   <img height="196" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhpOWIyanZrbXZia3Byc252MWI2bTljdzQ4ajYzYTFqdGNvdHE1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
