@@ -101,13 +101,14 @@
 <br>
 <br clear="both">
 
-<div style="background-color: black; display: inline-block; padding: 10px;">
+<div style="background-color: #1a1a1a; display: inline-block; padding: 10px; border-radius: 6px;">
   <picture align="left"> 
     <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com"> 
     <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com"> 
     <img alt="pacman contribution graph" src="https://githubusercontent.com"> 
   </picture>
 </div>
+
 
 
 ###
