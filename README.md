@@ -96,13 +96,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox" />
 </div>
 
-<img src="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/VicthorHugo-stack/VicthorHugo-stack/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VicthorHugo-stack.VicthorHugo-stack" />
 </div>
-
-<div align="center">
   <img height="196" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhpOWIyanZrbXZia3Byc252MWI2bTljdzQ4ajYzYTFqdGNvdHE1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 </div>
 
