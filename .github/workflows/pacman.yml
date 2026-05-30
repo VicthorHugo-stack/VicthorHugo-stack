@@ -14,13 +14,12 @@ jobs:
 
     steps:
       - name: Generate Pacman
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/pacman-contribution-graph@v3
         with:
           github_user_name: VicthorHugo-stack
-          outputs: dist/pacman-contribution-graph.svg
-          mode: pacman
+          output_dir: dist
 
-      - name: Deploy Pacman
+      - name: Deploy
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: pacman-output
