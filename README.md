@@ -120,14 +120,3 @@ Olá, meu nome é [Victhor Hugo](https://www.instagram.com/victhor_hcg/), tenho 
 
 
 
-
-<h3 align="center">VISITORS</h3>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:VicthorHugo-stack ?theme=capoo-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
