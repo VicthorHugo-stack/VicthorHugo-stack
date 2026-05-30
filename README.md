@@ -42,9 +42,6 @@ Sou apaixonado por tecnologia e programação, e acredito que com dedicação e 
   <a href="https://www.instagram.com/victhor_hcg/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
   </a>
-  <a href="https://www.twitch.tv/victhorhugo_dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="44" height="32" alt="twitch logo"  />
-  </a>
   <a href="https://www.facebook.com/profile.php?id=100094286922411" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="44" height="32" alt="facebook logo"  />
   </a>
