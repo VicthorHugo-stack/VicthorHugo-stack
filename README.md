@@ -88,23 +88,23 @@
 <h2 align="left">📊 Estatísticas</h2>
 
 <div align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VicthorHugo-stack&theme=gruvbox" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VicthorHugo-stack&theme=gruvbox" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VicthorHugo-stack&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VicthorHugo-stack&theme=dark" />
 </div>
 
 <br>
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VicthorHugo-stack&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VicthorHugo-stack&theme=dark" />
 </div>
 
 <br>
-<br clear="both">
+<br clear="both"> <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VicthorHugo-stack /VicthorHugo-stack /pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VicthorHugo-stack /VicthorHugo-stack /pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VicthorHugo-stack /VicthorHugo-stack /pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: gruvbox)" srcset="https://raw.githubusercontent.com/VicthorHugo-stack /VicthorHugo-stack /pacman-output/pacman-contribution-graph-gruvbox.svg">
+  <source media="(prefers-color-scheme: ligth)" srcset="https://raw.githubusercontent.com/VicthorHugo-stack /VicthorHugo-stack /pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VicthorHugo-stack /VicthorHugo-stack /pacman-output/pacman-contribution-graph-dark.svg">
 </picture>
 
 ###
@@ -116,15 +116,18 @@
 
 ###
 ###
-<br>
+<br> <br>
+
+
+
+
+<h3 align="center">VISITORS</h3>
+
+###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=VicthorHugo-stack.VicthorHugo-stack" />
+  <img src="https://count.getloli.com/@:VicthorHugo-stack ?theme=capoo-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
-<br>
-
-<div align="center">
-  <img height="196" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhpOWIyanZrbXZia3Byc252MWI2bTljdzQ4ajYzYTFqdGNvdHE1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
-</div>
+###
 
