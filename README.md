@@ -1,7 +1,7 @@
   <h1 align="center">👨‍💻 Victhor Hugo</h1>
   
   ###
-  **`Desenvolvedor Back-end | PHP & JavaScript`**
+  **`Desenvolvedor Back-end | PHP & JavaScript`** <br><br>
 Olá, meu nome é [Victhor Hugo](https://www.instagram.com/victhor_hcg/), tenho 15 anos e sou de São Paulo. Atualmente, estou cursando o 1º ano do ensino médio e estou também cursando um curso de programação na B7web, onde aprendo sobre as tecnologias mais modernas usadas na construção de sistemas e aplicativos.<br><br>Desde muito pequeno, sempre fui apaixonado por tecnologia e como ela pode transformar o mundo ao nosso redor. Eu me interessei por programação porque vejo nela uma maneira de criar soluções incríveis, automatizar tarefas, melhorar a vida das pessoas e até mesmo criar meus próprios projetos. Aprender a programar é como aprender um novo idioma, e cada linha de código que escrevo é uma nova oportunidade de criar algo inovador.<br>Sou apaixonado por tecnologia e programação, e acredito que com dedicação e estudo continuo poderei alcançar meus objetivos, tanto profissionais quanto pessoais. Estou sempre em busca de novos desafios e oportunidades para aprender, crescer e contribuir para o mundo da tecnologia!<br><hr></p>
   
   ###
